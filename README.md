@@ -16,7 +16,6 @@ Here are all the popular potatoes in chronological order from oldest (1) to newe
 5.    [Rogue Potato](https://github.com/antonioCoco/RoguePotato) - RPC over custom ports
 6.    [Sweet Potato](https://github.com/CCob/SweetPotato) - Print Spooler
 7.    [Generic Potato](https://github.com/micahvandeusen/GenericPotato) - HTTP and named pipes
-8.    [God Potato](https://github.com/BeichenDream/GodPotato) - DCOM (Distributed Component Object Model)
-9.    [Local Potato](https://github.com/decoder-it/LocalPotato) - NTLM authentication challenge process
-
-
+8.    [SharpEfsPotato](https://github.com/bugch3ck/SharpEfsPotato) - EfsRpc
+9.    [God Potato](https://github.com/BeichenDream/GodPotato) - DCOM (Distributed Component Object Model)
+10.    [Local Potato](https://github.com/decoder-it/LocalPotato) - NTLM authentication challenge process
